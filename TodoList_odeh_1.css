@@ -262,6 +262,7 @@ padding: 0em 1em;
     margin: 5px; 
     word-wrap: break-word;
     overflow-wrap: break-word;
+    cursor: pointer;
 }
 
 #del_list {
@@ -272,5 +273,5 @@ padding: 0em 1em;
 .grayed_out {
     color: gray;
     text-decoration: line-through;
-    
+    cursor: pointer;
 }

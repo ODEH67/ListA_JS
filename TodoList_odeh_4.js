@@ -200,7 +200,6 @@ function restoreTodos() {
 		});
 
 
-
 		newList.querySelector("#color_list").addEventListener("change", () => {
 			let val = newList.querySelector("#color_list").value;
 			switch (val) {
